@@ -44,7 +44,7 @@ Contributors
 ------------
 
 * Mohamed HABOU <m.habou@agoradeveloppement.com>
-* Abdelhakim IZilli abdo.izilli@gmail.com
+* Abdelhakim <Izilli abdo.izilli@gmail.com>
 Maintainer
 ----------
 
